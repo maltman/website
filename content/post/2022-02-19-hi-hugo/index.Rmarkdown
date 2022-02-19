@@ -1,4 +1,4 @@
----
+usethis::use_git()---
 title: Hi Hugo
 author: Micah Altman
 date: '2022-02-19'
