@@ -1,8 +1,11 @@
 ---
+title: Home Page of Dr. Micah Altman, Information Scientist & Social Scientist
+author: Micah Altman
+date: '2022-02-19'
 widget: hero
-headless: true
+headless: yes
+active: false
 weight: 10
-title: Hugo Academic Theme
 hero_media: hero-academic.png
 cta:
   label: '**Get Started**'
@@ -11,13 +14,18 @@ cta_alt:
   label: Ask a question
   url: https://discord.gg/z8wNYzb
 cta_note:
-  label: >-
-    <a class="js-github-release" href="https://github.com/wowchemy/wowchemy-hugo-themes/releases" data-repo="wowchemy/wowchemy-hugo-themes">Latest release<!-- V --></a><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy site builder for Hugo</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
+  label: '<a class="js-github-release" href="https://github.com/wowchemy/wowchemy-hugo-themes/releases"
+    data-repo="wowchemy/wowchemy-hugo-themes">Latest release<!-- V --></a><div style="text-shadow:
+    none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes"
+    data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star
+    Wowchemy site builder for Hugo</a></div><div style="text-shadow: none;"><a class="github-button"
+    href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star"
+    data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>'
 design:
   background:
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
-    text_color_light: true
+    text_color_light: yes
 advanced:
   css_class: fullscreen
 ---

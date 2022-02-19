@@ -30,12 +30,12 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '42.39819848528568'
+  longitude: '-71.08737247311873'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Weekdays 9:00 to 5:00'
-appointment_url: 'https://calendly.com'
+  - 'Weekdays 8:00 to 5:00 EST, Saturday AM, Sunday PM'
+appointment_url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2aOQnTDDtj_HQDORcAQ7TFUTXF2-dAyDrDti_47aym8CLR3r9b14yJYHe0LWnLyaYDVYnyj2jY'
 contact_links:
   - icon: twitter
     icon_pack: fab
