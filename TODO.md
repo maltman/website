@@ -1,3 +1,5 @@
+RECENTLY UPDATE
+
 Favicon
 Twitter sidebar
 CV
@@ -5,9 +7,10 @@ Bio
 Social Media entries
 Terms
 Privacy Policy
-Seach service
+Search service
 Wikipedia
-- Publications
-- ORCID
-- SCHolar
--Linkedin
+
+TODO
+
+- Embed dataverse
+- Add publications

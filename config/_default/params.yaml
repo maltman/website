@@ -129,6 +129,9 @@ comments:
     url: ''
 search:
   provider: wowchemy
+  wowchemy:
+    min_length: 3
+    threshold: 0.01
   algolia:
     app_id: ''
     api_key: ''
