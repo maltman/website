@@ -5,13 +5,13 @@ widget: featured
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
-subtitle: ""
+title: Preprints 
+subtitle: "Works in Progress"
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -33,5 +33,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---
