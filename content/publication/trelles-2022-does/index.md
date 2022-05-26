@@ -48,7 +48,7 @@ We find a combination of redistricting criteria, demographic shifts, and
 voting preferences – rather than partisan gerrymandering – account for the
 stability of electoral outcomes.'
 publication: '*SSRN*'
-doi: ''
+doi: '10.2139/ssrn.4076322'
 links:
 - name: URL
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4076322
