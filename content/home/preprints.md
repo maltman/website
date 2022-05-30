@@ -35,3 +35,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+{{< staticref "/publication/index.xml" "newtab" >}}{{< icon name="rss" pack="fas" >}}{{< /staticref >}}
