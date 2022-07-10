@@ -11,7 +11,7 @@ active: true
 weight: 80
 
 title: Preprints 
-subtitle: "Works in Progress"
+subtitle: "Works in Progress  <br/><a href='https://scholar.google.com/citations?user=HV57prsAAAAJ&hl=en' target='_new'>(prior work)</a>"
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -37,3 +37,9 @@ design:
 ---
 
 {{< staticref "/publication/index.xml" "newtab" >}}{{< icon name="rss" pack="fas" >}}{{< /staticref >}}
+
+
+
+
+
+

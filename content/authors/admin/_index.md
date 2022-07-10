@@ -54,7 +54,12 @@ Dr Micah Altman is a social and information scientist at MIT's Center for Resear
 
 Dr. Altman conducts research in social science, information science and research methods -- focusing on the intersections of information, technology, privacy, and politics; and on the dissemination, preservation, reliability and governance of scientific knowledge. 
 
-{{< icon name="wikipedia-w" pack="fab" >}} Read more about about my work on {{< staticref "https://en.wikipedia.org/wiki/Micah_Altman" "newtab" >}}wikipedia{{< /staticref >}}
+{{< icon name="wikipedia-w" pack="fab" >}} Read more about about my work on {{< staticref "https://en.wikipedia.org/wiki/Micah_Altman" "newtab" >}}wikipedia{{< /staticref >}}.
+
+{{< icon name="graduation-cap" pack="fas" >}} Prior publications are linked from my profile on {{< staticref "https://scholar.google.com/citations?user=HV57prsAAAAJ&hl=en" "newtab" >}}google scholar{{< /staticref >}}.
+
+
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://docs.google.com/document/d/1E4-S6tUIQLW5BtV8pocc9MyWgWWrMsr9mfBws0RFuD0/edit?usp=sharing" "newtab" >}}cv{{< /staticref >}}.
 
