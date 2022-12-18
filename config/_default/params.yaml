@@ -40,6 +40,10 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/drmaltman'
+  - icon: mastodon
+    icon_pack: fab
+    name: Contact me on mastodon
+    link: 'https://masthead.social/@drmaltman'
   - icon: google
     icon_pack: fab
     name: Chat on google chat
