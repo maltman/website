@@ -38,7 +38,7 @@ social:
   icon_pack: fas
   link: https://scholar.google.com/citations?user=HV57prsAAAAJ&hl=en
 - icon: mastodon
-  icon_pack: fas
+  icon_pack: fab
   link: https://masthead.social/@drmaltman
 - icon: github
   icon_pack: fab
