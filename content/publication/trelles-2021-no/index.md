@@ -12,8 +12,8 @@ authors:
 - Michael P McDonald
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2022-04-24T09:33:16-04:00
+date: '2023-03-27'
+lastmod: 2023-03-27T09:33:16-04:00
 featured: true
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T13:33:38.203211Z'
+publishDate: '2023-03-27T13:33:38.203211Z'
 publication_types:
 - '0'
 abstract: '
@@ -48,9 +48,9 @@ of the process and offer policy recommendations that can help improve the
 quality of redistricting in Mexico and in countries cyclically renewing their
 electoral geography.
 '
-publication: '*SSRN*'
-doi: http://dx.doi.org/10.2139/ssrn.3762805
+publication: '*Election Law Journal*'
+doi: https://doi.org/10.1089/elj.2021.0061
 links:
 - name: URL
-  url: https://ssrn.com/abstract=3762805
+  url: https://www.liebertpub.com/doi/10.1089/elj.2021.0061
 ---
