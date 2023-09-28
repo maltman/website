@@ -9,8 +9,8 @@ authors:
 - Aloni Cohen
 tags: []
 categories: []
-date: '2023-04-01'
-lastmod: 2023-04-01T00:03:16-04:00
+date: '2023-09-28'
+lastmod: 2023-09-28T00:03:16-04:00
 featured: true
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-31T13:33:38.019825Z'
+publishDate: '2023-09-28T13:33:38.019825Z'
 publication_types:
 - '0'
 abstract: '
@@ -42,8 +42,10 @@ theorems on privacy. We describe how NDP can be
 efficiently implemented and how it aligns with
 recognized privacy principles and frameworks.
 '
-publication: 'Under Review *JofUR*, announced at SigBovik 2023'
+publication: '*PeerJ Computer Science*'
+doi: 10.7717/peerj-cs.1576
 links:
 - name: URL
-  url: https://www.sigbovik.org/
+  url: https://doi.org/10.7717/peerj-cs.1576
+
 ---

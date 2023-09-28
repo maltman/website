@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 66
 
-title: News and updates
+title: Commentary and updates
 subtitle:
 
 design:

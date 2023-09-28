@@ -35,8 +35,8 @@ abstract: '
 There is evidence that scholarly processes have bias and create barriers to inclusion; more openness in scholarly communication is needed. Progress towards a better scholarly ecosystem requires comparable, reliable measures of the desired attributes of a better system. This paper describes an initiative in progress to produce standardized indicators that describe the volume and types of open science output systematically over time, using existing open data sources. We describe a replicable to clean, integrate, code, and analyze these sources to enable continuous publication of indicators. And we report on early results from this initiative, demonstrating how these indicators can go beyond ‘overall impact’ measures to advance the understanding of who is, and who is not, participating in open scholarship. 
 '
 publication: '*MetaArXiv*'
-doi: '10.31222/osf.io/z495g'
+doi: 'doi.org/10.1002/pra2.640'
 links:
 - name: URL
-  url: https://osf.io/preprints/metaarxiv/z495g/
+  url: https://doi.org/10.1002/pra2.640
 ---

@@ -16,13 +16,13 @@ main:
   #- name: Talks
   #  url: '#talks'
   #  weight: 40
-  - name: Preprints
+  - name: Writings
     url: '#preprints'
     weight: 50
   #- name: Courses
   #  url: courses/
   #  weight: 60
-  - name: News
+  - name: Commentary
     url: '#news'
     weight: 40
   - name: Contact

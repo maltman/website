@@ -11,8 +11,8 @@ authors:
 - Jessica Polka
 tags: []
 categories: []
-date: '2021-12-01'
-lastmod: 2022-04-24T09:33:38-04:00
+date: '2023-08-01'
+lastmod: 2023-08-01T09:33:38-04:00
 featured: true
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T13:33:37.884249Z'
+publishDate: '2023-08-01T13:33:37.884249Z'
 publication_types:
 - '0'
 abstract: '
@@ -51,9 +51,9 @@ open access model -- to yield surprising results. Finally, we outline how these 
 impact of preprint initiatives, and we identify approaches drawn from public health to mitigate these
 threats.
 '
-publication: '*MetaArXiv*'
-doi: 10.31222/osf.io/6nzhe
+publication: '*First Monday*'
+doi: 10.5210/fm.v28i8.12941
 links:
 - name: URL
-  url: https://osf.io/preprints/metaarxiv/6nzhe
+  url: https://doi.org/10.5210/fm.v28i8.12941
 ---
