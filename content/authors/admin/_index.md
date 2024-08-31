@@ -35,7 +35,7 @@ social:
   label: Follow me on Twitter
   link: https://twitter.com/drmaltman
 - icon: graduation-cap
-  icon_pack: fas
+  icon_pack: fa
   link: https://scholar.google.com/citations?user=HV57prsAAAAJ&hl=en
 - icon: mastodon
   icon_pack: fab
@@ -49,6 +49,9 @@ social:
 - icon: wikipedia-w
   icon_pack: fab
   link: https://en.wikipedia.org/wiki/Micah_Altman
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-7382-6960
 superuser: true
 title: Micah Altman
 ---
