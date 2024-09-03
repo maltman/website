@@ -39,7 +39,7 @@ social:
   link: https://scholar.google.com/citations?user=HV57prsAAAAJ&hl=en
 - icon: mastodon
   icon_pack: fab
-  link: https://masthead.social/@drmaltman
+  link: https://mastodon.social/@drmaltman
 - icon: github
   icon_pack: fab
   link: https://github.com/maltman
