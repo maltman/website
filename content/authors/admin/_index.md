@@ -21,7 +21,7 @@ interests:
 - Information Science
 - Computer Science
 organizations:
-- name:  Center for Research in Equitable and Open Scholarship, Massachusetts Institute of Technology
+- name:  Center for Research on Equitable and Open Scholarship, Massachusetts Institute of Technology
   url: https://libraries.mit.edu/creos/
 role: Research Scientist
 social:
@@ -56,7 +56,7 @@ superuser: true
 title: Micah Altman
 ---
 
-Dr Micah Altman is a social and information scientist at MIT's Center for Research in Equitable and Open Scholarship. Previously he served as Director of Research for the MIT Libraries, Head/Scientist for the Program on Information Science, Senior Fellow at The Brookings Institution; and at Harvard University as the Associate Director of the Harvard-MIT Data Center, Archival Director of the Henry A. Murray Archive, and Senior Research Scientist in the Institute for Quantitative Social Sciences.
+Dr Micah Altman is a social and information scientist at MIT's Center for Research on Equitable and Open Scholarship. Previously he served as Director of Research for the MIT Libraries, Head/Scientist for the Program on Information Science, Senior Fellow at The Brookings Institution; and at Harvard University as the Associate Director of the Harvard-MIT Data Center, Archival Director of the Henry A. Murray Archive, and Senior Research Scientist in the Institute for Quantitative Social Sciences.
 
 Dr. Altman conducts research in social science, information science and research methods -- focusing on the intersections of information, technology, privacy, and politics; and on the dissemination, preservation, reliability and governance of scientific knowledge. 
 
