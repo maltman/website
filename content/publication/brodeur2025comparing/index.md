@@ -6,7 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Abel Brodeur
-- (large collaboration, including Micah Altman)
+- Micah Altman
+- (massive collaboration)
 tags: []
 categories: []
 date: '2025-01-15'
