@@ -4,8 +4,21 @@
 title: 'A Community-Driven Differential Privacy Deployment Registry'
 summary: ''
 authors:
-- Abel Brodeur
-- (massive collaboration, including Micah Altman)
+- Micah Altman
+- Sharon Ayalde
+- Rachel Cummings
+- Damien Desfontaines
+- Jack Fitzsimons
+- Elena Ghazi
+- Andrew Gruen
+- James Honaker
+- Gary Howarth
+- Nitin Kohli
+- Chuck McCallum
+- Priyanka Nanayakkara
+- Joseph P. Near
+- Robert Pisarczyk
+- Salil Vadhan
 tags: []
 categories: []
 date: '2025-09-22'
