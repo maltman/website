@@ -10,8 +10,8 @@ authors:
 - Chris Bourg
 tags: []
 categories: []
-date: '2026-10-3'
-lastmod: 2026-10-3T00:03:16-04:00
+date: '2026-10-5'
+lastmod: 2026-10-5T00:03:16-04:00
 featured: true
 draft: false
 
@@ -29,12 +29,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-10-31T13:33:38.019825Z'
+publishDate: '2026-10-5T13:33:38.019825Z'
 publication_types:
 - '0'
 abstract: '
 Open science comprises a range of practices that advance different goals, yet it is often treated as an expression of a single orientation toward openness. We ran a pre-specified, stratified survey of researchers at 292 US universities to examine whether researchers’ beliefs about scientific knowledge and scientific communities were associated with attitudes toward data sharing, preregistration, open access, and replication across eight social science disciplines. More positivist beliefs were associated with stronger support for data sharing, preregistration, and replication, and with weaker support for open access. Perceiving science as exclusionary was associated with stronger support for open access and data sharing. These relationships held after adjustment for disciplinary affiliation and methodological orientation. The findings indicate that open science is not supported for a single reason: different practices appeal to distinct but overlapping epistemic and social commitments.'
-publication: '*arXiv*'
+publication: '*ResearchSquare*'
 doi:  https://doi.org/10.21203/rs.3.rs-11134352/v1
 links:
 - name: URL
