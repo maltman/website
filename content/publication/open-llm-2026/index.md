@@ -4,7 +4,6 @@
 title: 'How Open Must Language Models be to Enable Reliable Scientific Inference?'
 summary: ''
 authors:
-- Abel Brodeur
 - James A. Michaelov
 - Catherine Arnett
 - Tyler A. Chang
@@ -43,7 +42,7 @@ abstract: '
 How does the extent to which a model is open or closed impact the scientific inferences that can be drawn from research that involves it? In this paper, we analyze how restrictions on information about model construction and deployment threaten reliable inference. We argue that current closed models are generally ill-suited for scientific purposes, with some notable exceptions, and discuss ways in which the issues they present to reliable inference can be resolved or mitigated. We recommend that when models are used in research, potential threats to inference should be systematically identified along with the steps taken to mitigate them, and that specific justifications for model selection should be provided.
 '
 publication: '*arXiv*'
-doi:  hhttps://arxiv.org/abs/2603.26539
+doi:  https://arxiv.org/abs/2603.26539
 links:
 - name: URL
   url:  https://arxiv.org/abs/2603.26539
