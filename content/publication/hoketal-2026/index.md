@@ -10,7 +10,7 @@ authors:
 - Chris Bourg
 tags: []
 categories: []
-date: '2026-06-05'
+date: '2026-10-05'
 lastmod: 2026-10-05T00:03:16-04:00
 featured: true
 draft: false
