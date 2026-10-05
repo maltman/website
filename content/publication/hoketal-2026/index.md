@@ -10,8 +10,8 @@ authors:
 - Chris Bourg
 tags: []
 categories: []
-date: '2026-10-5'
-lastmod: 2026-10-5T00:03:16-04:00
+date: '2026-06-05'
+lastmod: 2026-10-05T00:03:16-04:00
 featured: true
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-10-5T13:33:38.019825Z'
+publishDate: '2026-10-05T13:33:38.019825Z'
 publication_types:
 - '0'
 abstract: '
